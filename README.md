@@ -10,7 +10,7 @@
 - 🔍 Interested in Data Analysis & Visualization  
 - 📊 Skilled in SQL, Python, and Power BI  
 - 💡 Love solving real-world problems using data  
-- 🎯 open to work
+- 🎯 Open to work
 
 ---
 

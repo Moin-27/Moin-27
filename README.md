@@ -15,18 +15,17 @@
 ---
 
 ## 🛠️ Skills
-- SQL  
-- Python  
-- Power BI  
-- Excel  
+- 📊 Data Analysis: SQL, Excel  
+- 🐍 Programming: Python  
+- 📈 Visualization: Power BI  
 
 ---
 
 ## 📌 Projects
-- 🔹 **SkillBridge** – Learner–teacher platform with search, booking & reviews → *Reduced manual effort for session management by enabling end-to-end self-service booking*  
+- 🔹 **SkillBridge** – Learner–teacher platform with search, booking & reviews → *Enabled end-to-end self-service booking for learners and teachers*  
   🔗 [Live Demo](https://skillbridge.page.gd/)
 - 🔹 **Language Translation Tool** – Flask app with real-time translation + caching → *Cut repeated API calls with smart caching, improving response speed significantly*  
-  🔗 [Live Demo](https://language-translation-ps8x.onrender.com/)
+  🔗 [Live Demo](https://language-translation-ps8x.onrender.com/) · 💻 [Code](https://github.com/Moin-27/Language-Translation)
 
 ---
 

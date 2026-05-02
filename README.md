@@ -1,7 +1,8 @@
 # Hi 👋, I'm Moin Ahmed
+### Turning Raw Data into Real Insights 📊
 
-📊 Aspiring Data Analyst  
-🎓 Final Year BSc IT Student  
+📊 Data Analyst | SQL · Python · Power BI  
+🎓 Final Year BSc IT Student — Job-Ready & Actively Seeking Opportunities
 
 ---
 
@@ -22,8 +23,10 @@
 ---
 
 ## 📌 Projects
-- 🔹 SkillBridge – Platform connecting learners with skilled individuals  
-- 🔹 Language Translation Tool – NLP-based web app using Flask  
+- 🔹 **SkillBridge** – Learner–teacher platform with search, booking & reviews → *Reduced manual effort for session management by enabling end-to-end self-service booking*  
+  🔗 [Live Demo](https://skillbridge.page.gd/)
+- 🔹 **Language Translation Tool** – Flask app with real-time translation + caching → *Cut repeated API calls with smart caching, improving response speed significantly*  
+  🔗 [Live Demo](https://language-translation-ps8x.onrender.com/)
 
 ---
 

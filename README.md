@@ -22,10 +22,14 @@
 ---
 
 ## 📌 Projects
+- 🔹 **Amazon Sales Performance Dashboard** – Interactive Power BI dashboard analyzing sales trends and customer behavior  
+  → *Identified key sales drops and top categories, delivering actionable business insights*  
+  🔗 [View Report](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard/blob/main/Amazon_Sales_Dashboard.pdf) · 💻 [Code](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard)
 - 🔹 **SkillBridge** – Learner–teacher platform with search, booking & reviews  
   → *Enabled end-to-end self-service booking for learners and teachers*  
   🔗 [Live Demo](https://skillbridge.page.gd/) · 🔒 Code: Private *(available on request)*
-- 🔹 **Language Translation Tool** – Flask app with real-time translation + caching → *Cut repeated API calls with smart caching, improving response speed significantly*  
+- 🔹 **Language Translation Tool** – Flask app with real-time translation + caching  
+  → *Cut repeated API calls with smart caching, improving response speed significantly*  
   🔗 [Live Demo](https://language-translation-ps8x.onrender.com/) · 💻 [Code](https://github.com/Moin-27/Language-Translation)
 
 ---

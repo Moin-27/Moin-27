@@ -24,7 +24,7 @@
 ## 📌 Projects
 - 🔹 **Amazon Sales Performance Dashboard** – Interactive Power BI dashboard analyzing sales trends and customer behavior  
   → *Identified key sales drops and top categories, delivering actionable business insights*  
-  🔗 [View Report](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard/blob/main/Amazon_Sales_Dashboard.pdf) · 💻 [Code](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard)
+  🔗 [View Report](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard/blob/main/dashboard.png) · 💻 [Code](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard)
 - 🔹 **SkillBridge** – Learner–teacher platform with search, booking & reviews  
   → *Enabled end-to-end self-service booking for learners and teachers*  
   🔗 [Live Demo](https://skillbridge.page.gd/) · 🔒 Code: Private *(available on request)*

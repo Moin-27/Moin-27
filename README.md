@@ -22,6 +22,9 @@
 ---
 
 ## 📌 Projects
+- 🔹 **Restaurant Orders Analytics Dashboard** – SQL + Power BI project analyzing restaurant revenue, customer behavior, delivery performance, and customer ratings through interactive dashboards  
+  → *Combined SQL-based analysis with business intelligence dashboards to uncover spending patterns and operational insights*  
+  🔗 [Repository](https://github.com/Moin-27/Restaurant-Orders-Analytics)
 - 🔹 **Amazon Sales Performance Dashboard** – Interactive Power BI dashboard analyzing sales trends and customer behavior  
   → *Identified key sales drops and top categories, delivering actionable business insights*  
   🔗 [View Report](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard/blob/main/dashboard.png) · 💻 [Code](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard)

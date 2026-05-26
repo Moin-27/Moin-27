@@ -30,7 +30,7 @@
   🔗 [View Report](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard/blob/main/dashboard.png) · 🔗 [Repository](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard)
 - 🔹 **Zomato Delivery Analytics Dashboard** – Python + Pandas project analyzing delivery operations, traffic impact, weather conditions, and customer order trends through interactive visualizations  
   → *Used data analysis and visualization techniques to uncover operational patterns and delivery performance insights*  
-  🔗 [Repository](https://github.com/Moin-27/Zomato-Delivery-Analytics) · 🔗 [View Report](https://github.com/Moin-27/Zomato-Delivery-Analytics#-dashboard-preview)
+  🔗 [View Report](https://github.com/Moin-27/Zomato-Delivery-Analytics#-dashboard-preview) · 🔗 [Repository](https://github.com/Moin-27/Zomato-Delivery-Analytics) 
 - 🔹 **SkillBridge** – Learner–teacher platform with search, booking & reviews  
   → *Enabled end-to-end self-service booking for learners and teachers*  
   🔗 [Live Demo](https://skillbridge.page.gd/) · 🔒 Code: Private *(available on request)*

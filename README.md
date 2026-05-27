@@ -93,9 +93,9 @@
 
 - 🏢 **[Data Analytics Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69d5e4f689ccbdef794604b8_1775628563746_completion_certificate.pdf)** — Deloitte Australia (Forage) • *Apr 2026*
 - 💻 **[Technology Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_69d5e4f689ccbdef794604b8_1775718420364_completion_certificate.pdf)** — Deloitte Australia (Forage) • *Apr 2026*
-- 📊 **[Data Analyst Certification](https://www.oneroadmap.io/skills/da/certificate/CERT-4F09434A)** — OneRoadMap (ID: CERT-4F09434A) • *Apr 2026*
+- 📊 **[Data Analyst Certification](https://www.oneroadmap.io/skills/da/certificate/CERT-4F09434A)** — OneRoadMap • *Apr 2026*
 - 🤖 **[AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/47tuzkkgctey)** — Anthropic • *Apr 2026*
-- 🌐 **[Frontend Development Certification](https://www.oneroadmap.io/skills/frontend/certificate/CERT-08BA031E)** — OneRoadMap (ID: CERT-08BA031E) • *Apr 2026*
+- 🌐 **[Frontend Development Certification](https://www.oneroadmap.io/skills/frontend/certificate/CERT-08BA031E)** — OneRoadMap • *Apr 2026*
 
 🔗 [See all certifications on LinkedIn](https://www.linkedin.com/in/moin-ahmed27/details/certifications/)
 

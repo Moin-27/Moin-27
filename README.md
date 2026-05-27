@@ -21,20 +21,10 @@
 
 # 🛠️ Skills & Tools
 
-### 📊 Data Analysis
-`SQL` `Excel` `Pandas` `Data Cleaning` `Data Visualization`
-
-### 🐍 Programming
-`Python`
-
-### 📈 Visualization & BI
-`Power BI` `Matplotlib` `Dashboard Design`
-
-### 🗄️ Database
-`MySQL`
-
-### 💼 Business Skills
-`Business Insights` `Reporting` `Analytics`
+- **📊 Data Analysis & Database:** `SQL` • `MySQL` • `Excel` • `Pandas` • `Data Cleaning` • `Data Visualization`
+- **🐍 Programming:** `Python`
+- **📈 Visualization & BI:** `Power BI` • `Matplotlib` • `Dashboard Design`
+- **💼 Business Skills:** `Business Insights` • `Reporting` • `Analytics`
 
 ---
 
@@ -52,18 +42,6 @@
 
 ---
 
-## 🛒 Amazon Sales Performance Dashboard
-🔹 Interactive Power BI dashboard analyzing sales trends and customer behavior  
-
-✨ Highlights:
-- Identified key sales drops and top-performing categories
-- Built KPI dashboards with business insights
-- Visualized payment trends and customer behavior
-
-🔗 [View Report](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard/blob/main/Amazon_Sales_Dashboard.pdf) • [Repository](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard)
-
----
-
 ## 🚚 Zomato Delivery Analytics Dashboard
 🔹 Python + Pandas project analyzing delivery operations, traffic impact, weather conditions, and customer order trends through interactive visualizations  
 
@@ -73,6 +51,18 @@
 - Identified operational and delivery performance insights
 
 🔗 [View Report](https://github.com/Moin-27/Zomato-Delivery-Analytics#-dashboard-preview) • [Repository](https://github.com/Moin-27/Zomato-Delivery-Analytics)
+
+---
+
+## 🛒 Amazon Sales Performance Dashboard
+🔹 Interactive Power BI dashboard analyzing sales trends and customer behavior  
+
+✨ Highlights:
+- Identified key sales drops and top-performing categories
+- Built KPI dashboards with business insights
+- Visualized payment trends and customer behavior
+
+🔗 [View Report](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard/blob/main/Amazon_Sales_Dashboard.pdf) • [Repository](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard)
 
 ---
 
@@ -96,7 +86,7 @@
 - Reduced repeated API calls using caching
 - Improved response efficiency and usability
 
-🔗 [Live Demo](https://language-translation-ps8x.onrender.com/) • [Code](https://github.com/Moin-27/Language-Translation)
+🔗 [Live Demo](https://language-translation-ps8x.onrender.com/) • [Repository](https://github.com/Moin-27/Language-Translation)
 
 ---
 

@@ -15,14 +15,14 @@
 - 📂 Built multiple end-to-end analytics dashboards using real-world datasets  
 - 💡 Love solving real-world problems using data  
 - ♟️ Participated in inter-college chess competitions, strengthening strategic thinking & problem-solving skills  
-- 🎯 Open to internship and entry-level opportunities
+- 🎯 Open to Data Analyst & BI opportunities
 
 ---
 
 # 🛠️ Skills & Tools
 
 - 📊 **Data Analysis & Database:** `SQL` • `Python` • `MySQL` • `Excel` • `Pandas` • `Data Cleaning`
-- 📈 **Business Analysis:** `Business Insights` • `Reporting` • `Analytics`
+- 📈 **Business & Reporting:** `Business Insights` • `Reporting` • `Analytics`
 - 🎨 **Visualization:** `Power BI` • `Tableau` • `Matplotlib` • `Dashboard Design`
 
 ---

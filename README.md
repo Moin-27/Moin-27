@@ -3,7 +3,9 @@
 ## 📊 Aspiring Data Analyst | SQL • Python • Power BI
 
 🚀 Turning Raw Data into Actionable Insights  
+
 🎓 Final Year BSc IT Student  
+
 💼 Open to Data Analyst / BI Intern Opportunities  
 
 ---

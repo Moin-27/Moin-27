@@ -110,7 +110,6 @@
 
 - 💻 **[Technology Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_69d5e4f689ccbdef794604b8_1775718420364_completion_certificate.pdf)** — Deloitte Australia (Forage) • *Apr 2026*
 
-
 🔗 [See all certifications on LinkedIn](https://www.linkedin.com/in/moin-ahmed27/details/certifications/)
 
 ---

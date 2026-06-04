@@ -3,7 +3,7 @@
 ## 📊 Data Analyst | SQL • Python • Power BI
 
 🚀 Turning Raw Data into Actionable Insights  
-🎓 Final Year BSc IT Student  
+🎓 BSc IT Graduate (2026)  
 💼 Open to Data Analyst / BI Opportunities  
 
 ---
@@ -15,7 +15,7 @@
 - 📂 Built multiple end-to-end analytics dashboards using real-world datasets  
 - 💡 Love solving real-world problems using data  
 - ♟️ Participated in inter-college chess competitions, strengthening strategic thinking & problem-solving skills  
-- 🎯 Open to Data Analyst & BI opportunities
+- 🚀 Passionate about transforming raw data into actionable insights
 
 ---
 
@@ -64,9 +64,10 @@ Flask-based translation application with real-time translation and caching suppo
 # 📜 Certifications
 
 <details>
-<summary><b>View Certifications (5)</b></summary>
+<summary><b>View Certifications (6)</b></summary>
 <br/>
 
+- 🏢 **[GenAI Powered Data Analytics Job Simulation](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_69d5e4f689ccbdef794604b8_1780501743896_completion_certificate.pdf)** — Tata (Forage) • *Jun 2026*
 - 🏢 **[Data Analytics Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69d5e4f689ccbdef794604b8_1775628563746_completion_certificate.pdf)** — Deloitte Australia (Forage) • *Apr 2026*
 - 📊 **[Data Analyst Certification](https://www.oneroadmap.io/skills/da/certificate/CERT-4F09434A)** — OneRoadMap • *Apr 2026*
 - 🤖 **[AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/47tuzkkgctey)** — Anthropic • *Apr 2026*

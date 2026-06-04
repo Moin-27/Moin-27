@@ -32,31 +32,31 @@
 # 📌 Featured Projects
 
 ### 🍽️ Restaurant Orders Analytics Dashboard
-SQL + Power BI dashboard analyzing restaurant revenue, customer behavior, delivery performance, and customer ratings.
+SQL + Power BI dashboard analyzing restaurant revenue, delivery performance, and customer ratings.<br/>
 🔗 [Repository](https://github.com/Moin-27/Restaurant-Orders-Analytics) • [View Report](https://github.com/Moin-27/Restaurant-Orders-Analytics/blob/main/PDF/Restaurant_Dashboard.pdf)
 
 ---
 
 ### 🚚 Zomato Delivery Analytics Dashboard
-Python + Pandas project analyzing delivery operations, traffic impact, weather conditions, and customer order trends through data visualization.
+Python + Pandas project analyzing delivery operations, traffic, weather, and customer trends.<br/>
 🔗 [Repository](https://github.com/Moin-27/Zomato-Delivery-Analytics) • [View Report](https://github.com/Moin-27/Zomato-Delivery-Analytics#-dashboard-preview)
 
 ---
 
 ### 🛒 Amazon Sales Performance Dashboard
-Interactive Power BI dashboard analyzing sales trends, customer behavior, and business performance metrics.
+Interactive Power BI dashboard analyzing sales trends, customer behavior, and business metrics.<br/>
 🔗 [Repository](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard) • [View Report](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard/blob/main/Amazon_Sales_Dashboard.pdf)
 
 ---
 
 ### 🎓 SkillBridge
-Learner–teacher platform with search, booking, reviews, and teacher verification features.
+Platform connecting learners with skilled teachers through search, booking, reviews, and verification features.<br/>
 🔗 [Live Demo](https://skillbridge.page.gd/) • 🔒 Code: Private (available on request)
 
 ---
 
 ### 🌐 Language Translation Tool
-Flask-based translation application with real-time translation and caching support.
+Flask-based translation application with real-time translation and caching support.<br/>
 🔗 [Repository](https://github.com/Moin-27/Language-Translation) • [Live Demo](https://language-translation-ps8x.onrender.com/)
 
 ---

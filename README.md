@@ -1,91 +1,133 @@
-# Hi 👋, I'm Moin Ahmed
+# Hi, I'm Moin Ahmed 👋
 
-## 📊 Data Analyst | SQL • Python • Power BI
+<div align="center">
+  
+  <!-- Animated Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Data+Analyst;Business+Intelligence+Developer;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
+  </a>
 
-🚀 Turning Raw Data into Actionable Insights  
-🎓 BSc IT Graduate (2026)  
-💼 Open to Data Analyst / BI Opportunities  
+  <p>
+    <b>BSc IT Graduate (2026)</b> • <i>Bridging the gap between complex data and strategic business decisions</i>
+  </p>
 
----
+  <p>
+    <a href="https://www.linkedin.com/in/moin-ahmed27" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+    &nbsp;
+    <a href="https://moin-27.github.io/Portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge" />
+    </a>
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Work%20(Data%20Analyst%20%2F%20BI)-success?style=flat-square" alt="Open to Work Status" />
+  </p>
 
-# 🚀 About Me
-
-- 🔍 Interested in Data Analysis & Visualization  
-- 📊 Skilled in SQL, Python, Power BI, Pandas & Excel  
-- 📂 Built multiple end-to-end analytics dashboards using real-world datasets  
-- 💡 Love solving real-world problems using data  
-- ♟️ Participated in inter-college chess competitions, strengthening strategic thinking & problem-solving skills  
-- 🚀 Passionate about transforming raw data into actionable insights
-
----
-
-# 🛠️ Skills & Tools
-
-- 📊 **Data Analysis & Database:** `SQL` • `Python` • `MySQL` • `Excel` • `Pandas` • `Data Cleaning`
-
-- 📈 **Business & Reporting:** `Business Insights` • `Reporting` • `Analytics`
-
-- 🎨 **Visualization:** `Power BI` • `Tableau` • `Matplotlib` • `Dashboard Design`
-
----
-
-# 📌 Featured Projects
-
-### 🍽️ Restaurant Orders Analytics Dashboard
-SQL + Power BI dashboard analyzing restaurant revenue, delivery performance, and customer ratings.<br/>
-🔗 [Repository](https://github.com/Moin-27/Restaurant-Orders-Analytics) • [View Report](https://github.com/Moin-27/Restaurant-Orders-Analytics/blob/main/PDF/Restaurant_Dashboard.pdf)
+</div>
 
 ---
 
-### 🚚 Zomato Delivery Analytics Dashboard
-Python + Pandas project analyzing delivery operations, traffic, weather, and customer trends.<br/>
-🔗 [Repository](https://github.com/Moin-27/Zomato-Delivery-Analytics) • [View Report](https://github.com/Moin-27/Zomato-Delivery-Analytics#-dashboard-preview)
+## 👨‍💻 About Me
+
+A results-driven IT graduate specializing in data analytics and business intelligence. I focus on translating raw datasets into visually compelling dashboards and strategic business insights. With a strong foundation in database architecture and statistical programming, I enjoy solving real-world analytical challenges.
+
+* **Data Insights:** Experienced in cleaning, transforming, and modeling complex relational databases.
+* **Visual Storytelling:** Adept at designing interactive dashboards in Power BI and Tableau for stakeholders.
+* **Problem Solving:** Passionate about performance optimization and finding efficiencies in workflows.
+* **Collaborative & Strategic:** Strengthened strategic thinking, risk assessment, and analysis through competitive chess.
 
 ---
 
-### 🛒 Amazon Sales Performance Dashboard
-Interactive Power BI dashboard analyzing sales trends, customer behavior, and business metrics.<br/>
-🔗 [Repository](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard) • [View Report](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard/blob/main/Amazon_Sales_Dashboard.pdf)
+## 🛠️ Skills & Technologies
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Libraries & Tools** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
+| **Visualization & BI** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) |
+| **Core Competencies** | ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-005A9C?style=flat-square) ![Reporting](https://img.shields.io/badge/Reporting-475569?style=flat-square) ![Business Insights](https://img.shields.io/badge/Business_Insights-1E293B?style=flat-square) |
 
 ---
 
-### 🎓 SkillBridge
-Platform connecting learners with skilled teachers through search, booking, reviews, and verification features.<br/>
-🔗 [Live Demo](https://skillbridge.page.gd/) • 🔒 Code: Private (available on request)
+## 📂 Featured Projects
+
+Here are a few select projects showcasing my analytical and development work. Detailed descriptions and architectures are available on the pinned repositories.
+
+* **Restaurant Orders Analytics Dashboard**  
+  🔗 [Repository](https://github.com/Moin-27/Restaurant-Orders-Analytics) • [Interactive Power BI Report](https://github.com/Moin-27/Restaurant-Orders-Analytics/blob/main/PDF/Restaurant_Dashboard.pdf)
+
+* **Zomato Delivery Analytics Dashboard**  
+  🔗 [Repository](https://github.com/Moin-27/Zomato-Delivery-Analytics) • [Analysis Report](https://github.com/Moin-27/Zomato-Delivery-Analytics#-dashboard-preview)
+
+* **Amazon Sales Performance Dashboard**  
+  🔗 [Repository](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard) • [Interactive Power BI Report](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard/blob/main/Amazon_Sales_Dashboard.pdf)
+
+* **SkillBridge (Private Repository)**  
+  🔗 [Live Demo](https://skillbridge.page.gd/) *(Code available upon request)*
+
+* **Language Translation Tool**  
+  🔗 [Repository](https://github.com/Moin-27/Language-Translation) • [Live Demo](https://language-translation-ps8x.onrender.com/)
 
 ---
 
-### 🌐 Language Translation Tool
-Flask-based translation application with real-time translation and caching support.<br/>
-🔗 [Repository](https://github.com/Moin-27/Language-Translation) • [Live Demo](https://language-translation-ps8x.onrender.com/)
-
----
-
-# 📜 Certifications
+## 📜 Certifications
 
 <details>
 <summary><b>View Certifications (6)</b></summary>
 <br/>
 
-- 🏢 **[GenAI Powered Data Analytics Job Simulation](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_69d5e4f689ccbdef794604b8_1780501743896_completion_certificate.pdf)** — Tata (Forage) • *Jun 2026*
-- 🏢 **[Data Analytics Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69d5e4f689ccbdef794604b8_1775628563746_completion_certificate.pdf)** — Deloitte Australia (Forage) • *Apr 2026*
-- 📊 **[Data Analyst Certification](https://www.oneroadmap.io/skills/da/certificate/CERT-4F09434A)** — OneRoadMap • *Apr 2026*
-- 🤖 **[AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/47tuzkkgctey)** — Anthropic • *Apr 2026*
-- 🌐 **[Frontend Development Certification](https://www.oneroadmap.io/skills/frontend/certificate/CERT-08BA031E)** — OneRoadMap • *Apr 2026*
-- 💻 **[Technology Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_69d5e4f689ccbdef794604b8_1775718420364_completion_certificate.pdf)** — Deloitte Australia (Forage) • *Apr 2026*
+* **GenAI Powered Data Analytics Job Simulation** (Tata / Forage) — *June 2026*  
+  [Verify Certificate](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_69d5e4f689ccbdef794604b8_1780501743896_completion_certificate.pdf)
+* **Data Analytics Job Simulation** (Deloitte Australia / Forage) — *April 2026*  
+  [Verify Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69d5e4f689ccbdef794604b8_1775628563746_completion_certificate.pdf)
+* **Data Analyst Certification** (OneRoadMap) — *April 2026*  
+  [Verify Certificate](https://www.oneroadmap.io/skills/da/certificate/CERT-4F09434A)
+* **AI Fluency: Framework & Foundations** (Anthropic) — *April 2026*  
+  [Verify Certificate](https://verify.skilljar.com/c/47tuzkkgctey)
+* **Frontend Development Certification** (OneRoadMap) — *April 2026*  
+  [Verify Certificate](https://www.oneroadmap.io/skills/frontend/certificate/CERT-08BA031E)
+* **Technology Job Simulation** (Deloitte Australia / Forage) — *April 2026*  
+  [Verify Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_69d5e4f689ccbdef794604b8_1775718420364_completion_certificate.pdf)
 
 </details>
 
-🔗 [See all certifications on LinkedIn](https://www.linkedin.com/in/moin-ahmed27/details/certifications/)
+&nbsp;&nbsp;🔗 [View all credentials and verification links on LinkedIn](https://www.linkedin.com/in/moin-ahmed27/details/certifications/)
 
 ---
 
-# 🌐 Connect with Me
+## 📊 GitHub Metrics
 
-💼 **LinkedIn:** [linkedin.com/in/moin-ahmed27](https://www.linkedin.com/in/moin-ahmed27)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Moin-27&show_icons=true&theme=react&hide_border=false" alt="GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moin-27&theme=react&hide_border=false" alt="Contribution Streak" />
+  </a>
+</p>
 
-🌍 **Portfolio:** [moin-27.github.io/Portfolio](https://moin-27.github.io/Portfolio/)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-27&layout=compact&theme=react&hide_border=false" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
-⭐ From [Moin-27](https://github.com/Moin-27)
+## 🤝 Connect with Me
+
+I am always open to discussing new projects, data insights, and analytics opportunities. Let's connect!
+
+* 💼 **LinkedIn:** [linkedin.com/in/moin-ahmed27](https://www.linkedin.com/in/moin-ahmed27)
+* 🌍 **Portfolio Website:** [moin-27.github.io/Portfolio](https://moin-27.github.io/Portfolio/)
+* ✉️ **GitHub Profile:** [@Moin-27](https://github.com/Moin-27)
+
+---
+
+<div align="center">
+  <sub>Developed by Moin Ahmed © 2026</sub>
+</div>

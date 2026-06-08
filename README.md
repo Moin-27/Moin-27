@@ -1,12 +1,8 @@
 <div align="center">
   
-  <!-- Name & Title -->
-  <h1>Hi, I'm Moin Ahmed 👋</h1>
-  <p><b>Data Analyst | Business Intelligence Developer</b></p>
-  
   <!-- Animated Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI;Turning+Data+into+Actionable+Insights;BSc+IT+Graduate+(2026)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+Moin+Ahmed;Data+Analyst;SQL+•+Python+•+Power+BI;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -22,10 +18,6 @@
     </a>
     &nbsp;
     <img src="https://komarev.com/ghpvc/?username=Moin-27&color=2563eb&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  </p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Work%20(Data%20Analyst%20%2F%20BI)-success?style=flat-square" alt="Open to Work Status" />
   </p>
 
 </div>
@@ -104,18 +96,8 @@ Here are a few select projects showcasing my analytical and development work. De
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=Moin-27&show_icons=true&theme=react" alt="GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com?user=Moin-27&theme=react" alt="Contribution Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Moin-27&layout=compact&theme=react" alt="Top Languages" />
   </a>
 </p>
 

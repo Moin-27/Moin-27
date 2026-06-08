@@ -2,7 +2,7 @@
   
   <!-- Animated Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+Moin+Ahmed;Data+Analyst;SQL+•+Python+•+Power+BI;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi%20%F0%9F%91%8B%2C%20I%27m%20Moin%20Ahmed;Data%20Analyst;SQL%20%E2%80%A2%20Python%20%E2%80%A2%20Power%20BI;Turning%20Data%20into%20Actionable%20Insights" alt="Typing SVG" />
   </a>
 
   <br/><br/>

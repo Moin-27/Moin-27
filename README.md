@@ -105,17 +105,17 @@ Here are a few select projects showcasing my analytical and development work. De
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Moin-27&show_icons=true&theme=react&hide_border=false" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Moin-27&show_icons=true&theme=react" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Moin-27&theme=react&hide_border=false" alt="Contribution Streak" />
+    <img src="https://streak-stats.demolab.com?user=Moin-27&theme=react" alt="Contribution Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moin-27&layout=compact&theme=react&hide_border=false" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Moin-27&layout=compact&theme=react" alt="Top Languages" />
   </a>
 </p>
 

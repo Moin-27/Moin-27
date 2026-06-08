@@ -1,16 +1,17 @@
-# Hi, I'm Moin Ahmed 👋
-
 <div align="center">
+  
+  <!-- Name & Title -->
+  <h1>Hi, I'm Moin Ahmed 👋</h1>
+  <p><b>Data Analyst | Business Intelligence Developer</b></p>
   
   <!-- Animated Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Data+Analyst;Business+Intelligence+Developer;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI;Turning+Data+into+Actionable+Insights;BSc+IT+Graduate+(2026)" alt="Typing SVG" />
   </a>
 
-  <p>
-    <b>BSc IT Graduate (2026)</b> • <i>Bridging the gap between complex data and strategic business decisions</i>
-  </p>
+  <br/><br/>
 
+  <!-- Badges (LinkedIn, Portfolio, Profile Views) -->
   <p>
     <a href="https://www.linkedin.com/in/moin-ahmed27" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
@@ -19,6 +20,8 @@
     <a href="https://moin-27.github.io/Portfolio/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge" />
     </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=Moin-27&color=2563eb&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
   </p>
   
   <p>
@@ -106,13 +109,13 @@ Here are a few select projects showcasing my analytical and development work. De
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moin-27&theme=react&hide_border=false" alt="Contribution Streak" />
+    <img src="https://streak-stats.demolab.com?user=Moin-27&theme=react&hide_border=false" alt="Contribution Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-27&layout=compact&theme=react&hide_border=false" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moin-27&layout=compact&theme=react&hide_border=false" alt="Top Languages" />
   </a>
 </p>
 

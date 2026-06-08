@@ -26,12 +26,12 @@
 
 ## 👨‍💻 About Me
 
-A results-driven IT graduate specializing in data analytics and business intelligence. I focus on translating raw datasets into visually compelling dashboards and strategic business insights. With a strong foundation in database architecture and statistical programming, I enjoy solving real-world analytical challenges.
-
-* **Data Insights:** Experienced in cleaning, transforming, and modeling complex relational databases.
-* **Visual Storytelling:** Adept at designing interactive dashboards in Power BI and Tableau for stakeholders.
-* **Problem Solving:** Passionate about performance optimization and finding efficiencies in workflows.
-* **Collaborative & Strategic:** Strengthened strategic thinking, risk assessment, and analysis through competitive chess.
+* 🔍 Interested in Data Analysis & Visualization
+* 📊 Skilled in SQL, Python, Power BI, Pandas & Excel
+* 📂 Built multiple end-to-end analytics dashboards using real-world datasets
+* 💡 Love solving real-world problems using data
+* ♟️ Participated in inter-college chess competitions, strengthening strategic thinking & problem-solving skills
+* 🚀 Passionate about transforming raw data into actionable insights
 
 ---
 
@@ -48,8 +48,6 @@ A results-driven IT graduate specializing in data analytics and business intelli
 ---
 
 ## 📂 Featured Projects
-
-Here are a few select projects showcasing my analytical and development work. Detailed descriptions and architectures are available on the pinned repositories.
 
 * **Restaurant Orders Analytics Dashboard**  
   🔗 [Repository](https://github.com/Moin-27/Restaurant-Orders-Analytics) • [Interactive Power BI Report](https://github.com/Moin-27/Restaurant-Orders-Analytics/blob/main/PDF/Restaurant_Dashboard.pdf)
@@ -93,26 +91,8 @@ Here are a few select projects showcasing my analytical and development work. De
 
 ---
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Moin-27&theme=react" alt="Contribution Streak" />
-  </a>
-</p>
-
----
-
 ## 🤝 Connect with Me
 
-I am always open to discussing new projects, data insights, and analytics opportunities. Let's connect!
-
 * 💼 **LinkedIn:** [linkedin.com/in/moin-ahmed27](https://www.linkedin.com/in/moin-ahmed27)
-* 🌍 **Portfolio Website:** [moin-27.github.io/Portfolio](https://moin-27.github.io/Portfolio/)
-* ✉️ **GitHub Profile:** [@Moin-27](https://github.com/Moin-27)
-
----
-
-<div align="center">
-  <sub>Developed by Moin Ahmed © 2026</sub>
-</div>
+* 🌍 **Portfolio:** [moin-27.github.io/Portfolio](https://moin-27.github.io/Portfolio/)
+* 📧 **Email:** [moinahmed2704@gmail.com](mailto:moinahmed2704@gmail.com)

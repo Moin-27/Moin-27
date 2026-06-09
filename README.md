@@ -49,22 +49,22 @@
 
 ## 📂 Featured Projects
 
-* **Restaurant Orders Analytics Dashboard**  
-  🔗 [Repository](https://github.com/Moin-27/Restaurant-Orders-Analytics) • [Interactive Power BI Report](https://github.com/Moin-27/Restaurant-Orders-Analytics/blob/main/PDF/Restaurant_Dashboard.pdf)
+* 🍽️ **Restaurant Orders Analytics Dashboard**  
+  🔗 [Repository](https://github.com/Moin-27/Restaurant-Orders-Analytics) • [View Dashboard](https://github.com/Moin-27/Restaurant-Orders-Analytics/blob/main/PDF/Restaurant_Dashboard.pdf)
 
-* **Zomato Delivery Analytics Dashboard**  
-  🔗 [Repository](https://github.com/Moin-27/Zomato-Delivery-Analytics) • [Analysis Report](https://github.com/Moin-27/Zomato-Delivery-Analytics/blob/main/Screenshots/dashboard_output.png)
+* 🚚 **Zomato Delivery Analytics Dashboard**  
+  🔗 [Repository](https://github.com/Moin-27/Zomato-Delivery-Analytics) • [View Dashboard](https://github.com/Moin-27/Zomato-Delivery-Analytics/blob/main/Screenshots/dashboard_output.png)
 
-* **HR Analytics Tableau Dashboard**  
-  🔗 [Repository](https://github.com/Moin-27/HR-Analytics-Tableau-Dashboard) • [HR Analytics Dashboard](https://github.com/Moin-27/HR-Analytics-Tableau-Dashboard/blob/main/screenshots/HR%20Analytics%20Dashboard.png) • [Attrition Analysis Dashboard](https://github.com/Moin-27/HR-Analytics-Tableau-Dashboard/blob/main/screenshots/Attrition%20Analysis%20Dashboard.png)
+* 👥 **HR Analytics & Employee Attrition Tableau Dashboard**  
+  🔗 [Repository](https://github.com/Moin-27/HR-Analytics-Tableau-Dashboard) • [HR Dashboard](https://github.com/Moin-27/HR-Analytics-Tableau-Dashboard/blob/main/screenshots/HR%20Analytics%20Dashboard.png) • [Attrition Dashboard](https://github.com/Moin-27/HR-Analytics-Tableau-Dashboard/blob/main/screenshots/Attrition%20Analysis%20Dashboard.png)
 
-* **Amazon Sales Performance Dashboard**  
-  🔗 [Repository](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard) • [Interactive Power BI Report](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard/blob/main/Amazon_Sales_Dashboard.pdf)
+* 🛒 **Amazon Sales Performance Dashboard**  
+  🔗 [Repository](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard) • [View Dashboard](https://github.com/Moin-27/Amazon-Sales-Powerbi-Dashboard/blob/main/Amazon_Sales_Dashboard.pdf)
 
-* **SkillBridge (Private Repository)**  
+* 🎓 **SkillBridge (Private Repository)**  
   🔗 [Live Demo](https://skillbridge.page.gd/) *(Code available upon request)*
 
-* **Language Translation Tool**  
+* 🌐 **Language Translation Tool**  
   🔗 [Repository](https://github.com/Moin-27/Language-Translation) • [Live Demo](https://language-translation-ps8x.onrender.com/)
 
 ---

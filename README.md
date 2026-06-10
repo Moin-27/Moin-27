@@ -76,17 +76,17 @@
 <br/>
 
 * **GenAI Powered Data Analytics Job Simulation** (Tata / Forage) — *June 2026*  
-  [Verify Certificate](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_69d5e4f689ccbdef794604b8_1780501743896_completion_certificate.pdf)
+  [View Certificate ↗](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_69d5e4f689ccbdef794604b8_1780501743896_completion_certificate.pdf)
 * **Data Analytics Job Simulation** (Deloitte Australia / Forage) — *April 2026*  
-  [Verify Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69d5e4f689ccbdef794604b8_1775628563746_completion_certificate.pdf)
+  [View Certificate ↗](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69d5e4f689ccbdef794604b8_1775628563746_completion_certificate.pdf)
 * **Data Analyst Certification** (OneRoadMap) — *April 2026*  
-  [Verify Certificate](https://www.oneroadmap.io/skills/da/certificate/CERT-4F09434A)
+  [View Certificate ↗](https://www.oneroadmap.io/skills/da/certificate/CERT-4F09434A)
 * **AI Fluency: Framework & Foundations** (Anthropic) — *April 2026*  
-  [Verify Certificate](https://verify.skilljar.com/c/47tuzkkgctey)
+  [View Certificate ↗](https://verify.skilljar.com/c/47tuzkkgctey)
 * **Frontend Development Certification** (OneRoadMap) — *April 2026*  
-  [Verify Certificate](https://www.oneroadmap.io/skills/frontend/certificate/CERT-08BA031E)
+  [View Certificate ↗](https://www.oneroadmap.io/skills/frontend/certificate/CERT-08BA031E)
 * **Technology Job Simulation** (Deloitte Australia / Forage) — *April 2026*  
-  [Verify Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_69d5e4f689ccbdef794604b8_1775718420364_completion_certificate.pdf)
+  [View Certificate ↗](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_69d5e4f689ccbdef794604b8_1775718420364_completion_certificate.pdf)
 
 </details>
 
